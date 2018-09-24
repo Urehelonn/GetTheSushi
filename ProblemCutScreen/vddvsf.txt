@@ -1,0 +1,30 @@
+Thanks for replying! However my reply doesn't seem to give the information back, had to add this to the answer.  @tormentoarmagedoom
+The instantiation is based on this gameobject. 
+![alt text][1]
+
+I edited the spawner to make it spawn slower so I can see which has the problem and which doesn't. I find no difference between the data.
+This is a trouble maker worm:
+![alt text][2]
+![alt text][3]
+This is a normal worm:
+![alt text][4]
+![alt text][5]
+
+Navigation:
+![alt text][6]
+![alt text][7]
+![alt text][8]
+
+The agent collider doesn's seem to match the mesh position as well.
+![alt text][9]
+
+
+  [1]: /storage/temp/119702-catepilliarinfo.jpg
+  [2]: /storage/temp/119703-missedagentlanded.jpg
+  [3]: /storage/temp/119704-missedagentinfo.jpg
+  [4]: /storage/temp/119706-normalagent.jpg
+  [5]: /storage/temp/119707-normalagentinfo.jpg
+  [6]: /storage/temp/119708-navmeshagentnavigation.jpg
+  [7]: /storage/temp/119709-navmeshsurface.jpg
+  [8]: /storage/temp/119710-agentinfo.jpg
+  [9]: /storage/temp/119711-agentsize.jpg
